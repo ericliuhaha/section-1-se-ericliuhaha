@@ -1,0 +1,3 @@
+{
+  "test_solution.py::test_is_match[a-.*.-True]": true
+}

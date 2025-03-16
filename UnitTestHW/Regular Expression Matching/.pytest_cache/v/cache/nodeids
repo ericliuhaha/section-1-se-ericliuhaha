@@ -1,0 +1,10 @@
+[
+  "test_solution.py::test_broken_solution",
+  "test_solution.py::test_is_match[--True]",
+  "test_solution.py::test_is_match[a-.*.-True]",
+  "test_solution.py::test_is_match[aa-a*-True]",
+  "test_solution.py::test_is_match[aa-a-False]",
+  "test_solution.py::test_is_match[aaa-ab*a*c*a-True]",
+  "test_solution.py::test_is_match[aab-c*a*b-True]",
+  "test_solution.py::test_is_match[ab-.*-True]"
+]
