@@ -1,0 +1,9 @@
+[
+  "test_fizzbuzz.py::TestSolution::test_15",
+  "test_fizzbuzz.py::TestSolution::test_2",
+  "test_fizzbuzz.py::TestSolution::test_3",
+  "test_fizzbuzz.py::TestSolution::test_5",
+  "test_fizzbuzz.py::TestSolution::test_invalid_input",
+  "test_fizzbuzz.py::TestSolution::test_main_14",
+  "test_fizzbuzz.py::TestSolution::test_main_15"
+]
