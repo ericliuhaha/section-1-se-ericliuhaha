@@ -2,3 +2,13 @@ version: '3'
 
 services:
   web:
+    build: ./
+    ports:
+      -  "5000:5000"
+    volumes:
+      -  ./web:/app
+    depends_on:
+      -  redis
+
+  redis:
+    image: radis:latest
